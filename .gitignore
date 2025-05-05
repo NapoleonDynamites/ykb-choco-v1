@@ -1,0 +1,18 @@
+# Altium backup and temp files
+*.tmp
+*.bak
+*.log
+*.DsnWrk
+*.PrjPCBStructure
+*.DB
+*.outjobpreview
+*.dat
+
+# History and previews
+History/
+__Previews/
+
+# Output folders
+*/Outputs/*
+*/Gerbers/*
+*/PDFs/*
