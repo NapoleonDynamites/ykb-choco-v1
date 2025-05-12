@@ -401,6 +401,14 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for CHOCO_KEYBOARD\CHOCO_KEYBOARD.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CHOCO_KEYBOARD\Design Rule Check - choco_keyboard_left.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CHOCO_KEYBOARD\Design Rule Check - choco_keyboard_right.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
