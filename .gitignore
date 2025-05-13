@@ -10,9 +10,12 @@
 
 # History and previews
 History/
+Cases/
+BOM/
 __Previews/
 
 # Output folders
 */Outputs/*
+*/Project Outputs for CHOCO_KEYBOARD/*
 */Gerbers/*
 */PDFs/*
